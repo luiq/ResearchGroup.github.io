@@ -1,10 +1,10 @@
 title: Welcome To The Pro. Xiao Research Group
-		.title{
-			background-color: #25B3F0;
-			height: 85px;
-			width: auto;
-			text-align: center;
-			line-height: 85px;
-			font-size: 40px;
-			color: #FFFFFF;				
-		}
+.title{
+	background-color: #25B3F0;
+	height: 85px;
+	width: auto;
+	text-align: center;
+	line-height: 85px;
+	font-size: 40px;
+	color: #FFFFFF;				
+}
