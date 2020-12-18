@@ -1,7 +1,7 @@
 <STYLE TYPE="text/css">
 <!--
 BODY {background-image: URL(./timg1.jpg);
-background-position: center;
+background-position:center bottom;
 background-repeat: no-repeat;
 background-attachment: fixed;}
 -->
