@@ -1,7 +1,7 @@
 <style type="text/css">
 <!--
 body {
-background-image: url(XXX);
+background-image: url(/timg1.jpg);
 }
 -->
 </style><body>
