@@ -1,11 +1,11 @@
-<style type="text/css">
+<STYLE TYPE="text/css">
 <!--
-body {
-background-image: url(/timg1.jpg);
-}
+BODY {background-image: URL(./timg1.jpg);
+background-position: center;
+background-repeat: no-repeat;
+background-attachment: fixed;}
 -->
-</style><body>
-
+</STYLE>
 
 <table border="0">
   <tr>
