@@ -1,2 +1,10 @@
 title: Welcome To The Pro. Xiao Research Group
-description: 肖君军教授课题组
+		.title{
+			background-color: #25B3F0;
+			height: 85px;
+			width: auto;
+			text-align: center;
+			line-height: 85px;
+			font-size: 40px;
+			color: #FFFFFF;				
+		}
