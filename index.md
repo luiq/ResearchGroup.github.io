@@ -1,3 +1,12 @@
+<style type="text/css">
+<!--
+body {
+background-image: url(XXX);
+}
+-->
+</style><body>
+
+
 <table border="0">
   <tr>
     <td width="75%">
