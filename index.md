@@ -2,7 +2,7 @@
 <!--
 BODY {background-image: URL(./timg1.jpg);
 background-position:center bottom;
-background-repeat: no-repeat;
+background-repeat: repeat-y;
 background-attachment: fixed;}
 -->
 </STYLE>
